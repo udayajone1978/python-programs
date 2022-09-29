@@ -13,7 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     a=2
-    b=3
+    b=7
     print(a+b)
     
 
